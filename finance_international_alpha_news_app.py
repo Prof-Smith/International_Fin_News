@@ -6,7 +6,7 @@ import os
 
 # Alpha Vantage API setup
 API_URL = "https://www.alphavantage.co/query"
-API_KEY = "YOUR_API_KEY"  # Replace with your actual Alpha Vantage API key
+API_KEY = "J3V002199GVMMZQM"  # Replace with your actual Alpha Vantage API key
 
 # Function to fetch news sentiment data
 def fetch_alpha_news():
