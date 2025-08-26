@@ -10,9 +10,7 @@ API_KEY = "A2P16LEIUBU7WZKf"  # Replace with your actual Alpha Vantage API key
 
 # Topic-specific queries
 topic_queries = {
-    "Global M&A Boom and Market Resilience": "mergers AND acquisitions",
-    "Currency Market Shifts Amid Trade Deals": "currency AND trade",
-    "Rising Tariffs and Political Risk": "tariffs AND political risk"
+    "International Finance"
 }
 
 # Function to fetch news sentiment data for a topic
