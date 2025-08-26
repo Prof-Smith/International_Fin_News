@@ -6,7 +6,7 @@ import os
 
 # Alpha Vantage API setup
 API_URL = "https://www.alphavantage.co/query"
-API_KEY = "A2P16LEIUBU7WZKF"  # Replace with your actual Alpha Vantage API key
+API_KEY = "A2P16LEIUBU7WZKf"  # Replace with your actual Alpha Vantage API key
 
 # Topic-specific queries
 topic_queries = {
