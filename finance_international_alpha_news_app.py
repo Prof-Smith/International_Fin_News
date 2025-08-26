@@ -10,7 +10,7 @@ API_KEY = "A2P16LEIUBU7WZKf"  # Replace with your actual Alpha Vantage API key
 
 # Topic-specific queries
 topic_queries = {
-    "International Finance"
+    "Currency Market Shifts Amid Trade Deals":"International Finance"
 }
 
 # Function to fetch news sentiment data for a topic
